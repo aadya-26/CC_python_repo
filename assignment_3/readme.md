@@ -1,14 +1,13 @@
 # Assignment 3
-<img src="image-2.png" width="100" >
+<img src="hw.jpg" width="500" >
+<img src="hw2.jpg" width="500" >
+<img src="hw3.jpg" width="500" >
+<img src="hw4.jpg" width="500" >
+<img src="hw5.jpg" width="500" >
+<img src="hw6.jpg" width="500" >
+<vid src="output_vid.mp4" width="500">
+
+Reference Code:    
+- https://scrollart.org/pac-wall/
 
 
-### Additional resources    
-- https://thecodingtrain.com/
-
-<!-- link -->
-
-###### [my github](https://github.com/aadya-26?tab=repositories)
-
-<!-- dinacat images in diff sizes -->
-![dinacat](image-2.png)
-<img src="image-2.png" width="100" >
