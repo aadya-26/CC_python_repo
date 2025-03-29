@@ -1,7 +1,8 @@
+### Description 
 The dataset consists of six digital fashion companies and their respective market influence percentages.
 
 
-Research Questions
+### Research Questions
 
 What is the market influence distribution among the leading digital fashion companies?
 
