@@ -17,7 +17,6 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 
 url = "https://dressx.com/news/ai-avatar-customization-helps-businesses-stay-ahead-in-virtual-ecosystems"
 driver.get(url)
-data = []
 element = driver.find_element(By.CSS_SELECTOR, 'p') # getting just the 1st paragraph
 img_elements_links = [elem.get_attribute('src') for elem in driver.find_elements(By.CSS_SELECTOR, 'img')] # getting the link to every image that comes up on that URL.
 print(element.text) # prints empty text, so there are many p elements before the p element holding the first paragraph of article. no problem as we only want the images.
