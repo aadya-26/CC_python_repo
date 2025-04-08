@@ -28,6 +28,10 @@ I’m creating a **digital fashion show** where some textile patterns are **gene
 - Animate runway walk + camera angles in **Clo3D**.  
 - Render final video (may use Blender/Unreal for polish).  
 
+### **4. GEN ART ATTEMPTS:
+<img src="26.jpg" width="500" >
+<img src="27.jpg" width="500" >
+<img src="29.jpg" width="500" >
 
 ## Some Challenges & Solutions 
 
