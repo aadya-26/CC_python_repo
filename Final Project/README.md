@@ -29,6 +29,32 @@ ts.postscript(file="filename.eps")
 * Abstract rectangles with muted earth tones
 * Represents structural decay of urban environments
 
+This piece visualizes the **ruins of a crumbling city**, made from glitched rectangles and scattered debris. It captures the sense of **man-made structures breaking down** over time.
+
+### How the code works:
+
+#### `decayed_rect(w, h, decay)`
+- Draws one rectangle at a time, but with **imperfect lines**.
+- The rectangle’s sides are broken up into tiny segments.
+- Depending on the “decay” level, some parts are:
+  - Skipped or lifted mid-line  
+  - Drawn with jagged marks  
+  - Drawn with different line weights  
+- This simulates damage — like **cracks, erosion, and rust**.
+
+#### `scattered_shapes()`
+- Places **20+ rectangles randomly** around the canvas.
+- Each rectangle has a **random size, angle, and decay level**.
+- They overlap and collide, creating the feeling of **collapsed structures or tiles**.
+
+#### `debris()`
+- Adds **small, scattered strokes** across the screen.
+- Looks like **dust, rubble, or fragmented metal**, adding gritty texture.
+
+### Export:
+- The final drawing is saved as an `.eps` and `.png` file using `PIL`,  
+  so I can edit it further in Illustrator and turn it into a **textile pattern**.
+
 <img src="Industrial_decay1.png" width="300" >  <img src="Industrial_decay3.png" width="300" > 
 - [CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
 
