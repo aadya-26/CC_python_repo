@@ -34,3 +34,10 @@ This project explores the use of generative coding with Python's Turtle library 
 - [CODE LINK](https://www.notion.so/Nature-Creeping-In-1f1be63be7fd80979db7d6592cfa2657?pvs=4)
 
 <img src="Nature_2.png" width="1000" >
+
+### 3. Bioluminescent Bloom
+* Glowing petal-like shapes using looping patterns
+* Ombre palette of blues, greens, and purples
+* Evokes flowers blooming under moonlight or post-toxic adaptation
+
+<img src="Bnature_1.png" width="200" >  <img src="Nature_3.png" width="100" >  <img src="Nature_4.PNG" width="500" > 
