@@ -19,7 +19,7 @@ This project explores the use of generative coding with Python's Turtle library 
 * Abstract rectangles with muted earth tones
 * Represents structural decay of urban environments
 
-<img src="Industrial_decay1.png" width="500" >
-[CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
+<img src="Industrial_decay1.png" width="300" > <img src="Industrial_decay3.png" width="300" > 
+![CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
 
-<img src="Industrial_decay2.png" width="500" >
+<img src="Industrial_decay2.png" width="1000" >
