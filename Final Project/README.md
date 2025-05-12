@@ -32,7 +32,6 @@ ts.postscript(file="filename.eps")
 This piece visualizes the **ruins of a crumbling city**, made from glitched rectangles and scattered debris. It captures the sense of **man-made structures breaking down** over time.
 
 <img src="Industrial_decay1.png" width="300" >
-- [CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
 
 ### How the code works:
 
