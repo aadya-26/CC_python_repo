@@ -69,6 +69,8 @@ This piece visualizes the **ruins of a crumbling city**, made from glitched rect
 
 This piece shows a **vine or plant stem slowly growing**, curving and branching in real time — a symbol of **nature starting to reclaim ruined spaces**.
 
+<img src="Nature_1.png" width="200" >
+
 ### How the code works:
 
 #### Main growth loop:
@@ -99,6 +101,8 @@ This piece shows a **vine or plant stem slowly growing**, curving and branching 
 * Evokes flowers blooming under moonlight or post-toxic adaptation
 
 This piece is a spiraling flower-like form with glowing colors, inspired by bioluminescent plants that might exist in a post-human world.
+
+<img src="Bnature_5.png" width="300" >
 
 ### How the code works:
 
