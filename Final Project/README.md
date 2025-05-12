@@ -19,7 +19,7 @@ This project explores the use of generative coding with Python's Turtle library 
 * Abstract rectangles with muted earth tones
 * Represents structural decay of urban environments
 
-<img src="Industrial_decay1.png" width="300" > - <img src="Industrial_decay3.png" width="300" > 
+<img src="Industrial_decay1.png" width="300" >  <img src="Industrial_decay3.png" width="300" > 
 - [CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
 
 <img src="Industrial_decay2.png" width="1000" >
@@ -28,3 +28,9 @@ This project explores the use of generative coding with Python's Turtle library 
 * Growing curves and branching lines
 * Inspired by vines, moss, and fungi creeping over stone
 * Blends angular forms with organic motion
+
+<img src="Nature_1.png" width="200" >  <img src="Nature_3.png" width="100" >  <img src="Nature_4.PNG" width="500" > 
+
+- [CODE LINK](https://www.notion.so/Nature-Creeping-In-1f1be63be7fd80979db7d6592cfa2657?pvs=4)
+
+<img src="Nature_2.png" width="1000" >
