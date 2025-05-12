@@ -14,6 +14,16 @@ This project explores the use of generative coding with Python's Turtle library 
 * Adobe Illustrator for refinement + tiling
 * CLO3D for final garment visualization
 
+### All scripts include:
+
+Generative drawing using loops, symmetry, and randomness
+
+Export to EPS via:
+
+ts = turtle.getcanvas()
+ts.postscript(file="filename.eps")
+
+
 ### 1. Industrial Collapse
 * Geometric debris-like repetition
 * Abstract rectangles with muted earth tones
@@ -44,3 +54,8 @@ This project explores the use of generative coding with Python's Turtle library 
 - [CODE LINK](https://www.notion.so/Bioluminescent-Reclaim-1f1be63be7fd801cb521e2c00d86ed10?pvs=4)
 
 <img src="Bnature_4.png" width="1000" >
+
+### Reflections
+* Learned how generative systems can be used creatively for fashion applications
+* Turtle’s simplicity enabled fast experimentation, though scaling patterns for textile use required vector editing
+* Bridged computational aesthetics with speculative design
