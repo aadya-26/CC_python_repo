@@ -50,6 +50,30 @@ ts.postscript(file="filename.eps")
 * Ombre palette of blues, greens, and purples
 * Evokes flowers blooming under moonlight or post-toxic adaptation
 
+This piece is a spiraling flower-like form with glowing colors, inspired by bioluminescent plants that might exist in a post-human world.
+
+#### How the code works:
+
+Main drawing loop:
+
+The Turtle draws a shape using two mirrored arcs, then rotates slightly and repeats this 180 times.
+
+Each repetition is drawn with a random color from a neon palette: mostly greens, blues, and purples, with just a touch of pink for contrast.
+
+The result is a glowing, layered flower that looks alive and futuristic.
+
+
+for i in range(180):
+
+    pencolor(random.choice(neon_colors))
+    circle(190 - i, 90)
+    left(60)
+    circle(190 - i, 90)
+    left(18)
+Export:
+Like the others, this is exported as an .eps file for use in Illustrator, where I refined it into a textile print.
+
+
 <img src="Bnature_5.png" width="300" > <img src="Bnature_1.png" width="300" >  <img src="Bnature_2.png" width="400" > 
 - [CODE LINK](https://www.notion.so/Bioluminescent-Reclaim-1f1be63be7fd801cb521e2c00d86ed10?pvs=4)
 
