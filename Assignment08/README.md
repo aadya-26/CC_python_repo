@@ -1,4 +1,4 @@
-# AI Text Summarizer
+# LLM Text Summarizer
 
 This project is a web application that uses transformer-based models to generate summaries from long-form text. Built with Streamlit and Hugging Face Transformers, the app allows users to input text, select a model, adjust summarization parameters, and view results with relevant performance metrics and visualizations.
 
