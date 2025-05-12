@@ -1,0 +1,22 @@
+# 🌿 After Us, The Wild- Generative Textile Prints with Turtle Python
+
+### Concept
+This project explores the use of generative coding with Python's Turtle library to create motifs for a speculative fashion collection titled “After Us, the Wild.” The collection imagines a post-human landscape where nature reclaims industrial ruin. Inspired by biophilic patterns, pendulum art, and concrete overgrowth, the generative visuals reflect decay, regrowth, and blooming ecosystems.
+
+### Why Turtle + Textiles?
+* Accessible generative tool for visual pattern creation
+* Exported as .eps files → opened in Adobe Illustrator for vector editing
+* Integrated into 3D garments in CLO3D as surface prints
+
+ ### Tools Used
+* Python Turtle for generative art
+* .eps export via Canvas.postscript()
+* Adobe Illustrator for refinement + tiling
+* CLO3D for final garment visualization
+
+### 1. Industrial Collapse
+* Geometric debris-like repetition
+* Abstract rectangles with muted earth tones
+* Represents structural decay of urban environments
+
+<img src="image-2.png" width="100" >
