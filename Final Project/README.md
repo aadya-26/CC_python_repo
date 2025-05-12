@@ -1,4 +1,4 @@
-# 🌿 After Us, The Wild- Generative Textile Prints with Turtle Python
+#  After Us, The Wild- Generative Textile Prints with Turtle Python
 
 ### Concept
 This project explores the use of generative coding with Python's Turtle library to create motifs for a speculative fashion collection titled “After Us, the Wild.” The collection imagines a post-human landscape where nature reclaims industrial ruin. Inspired by biophilic patterns, pendulum art, and concrete overgrowth, the generative visuals reflect decay, regrowth, and blooming ecosystems.
@@ -65,6 +65,26 @@ This piece visualizes the **ruins of a crumbling city**, made from glitched rect
 * Inspired by vines, moss, and fungi creeping over stone
 * Blends angular forms with organic motion
 
+This piece shows a **vine or plant stem slowly growing**, curving and branching in real time — a symbol of **nature starting to reclaim ruined spaces**.
+
+### How the code works:
+
+#### Main growth loop:
+- The Turtle moves **upward one pixel at a time**, drawing a long, slow-growing stem.
+- It **wiggles slightly left and right** using sine waves, making the growth feel natural and alive — not stiff.
+- The stem gets **thinner as it rises**, just like a real vine.
+- Every few frames, the **green color shifts** to mimic light, shadow, and variation.
+
+#### Branching logic (inside the loop):
+- Sometimes, the vine randomly creates a **branch at an angle**.
+- These branches also **curve and wiggle**, and some even sprout **tiny twigs** at the ends.
+- The logic is based on **chance**, so every vine turns out a little different.
+
+### Export:
+- Once the full form is drawn, it’s saved as an `.eps` file for further editing in **Illustrator**  
+  and used in **garment print layouts**.
+
+
 <img src="Nature_1.png" width="200" >  <img src="Nature_3.png" width="100" >  <img src="Nature_4.PNG" width="500" > 
 
 - [CODE LINK](https://www.notion.so/Nature-Creeping-In-1f1be63be7fd80979db7d6592cfa2657?pvs=4)
@@ -78,7 +98,7 @@ This piece visualizes the **ruins of a crumbling city**, made from glitched rect
 
 This piece is a spiraling flower-like form with glowing colors, inspired by bioluminescent plants that might exist in a post-human world.
 
-#### How the code works:
+### How the code works:
 
 Main drawing loop:
 
