@@ -31,6 +31,9 @@ ts.postscript(file="filename.eps")
 
 This piece visualizes the **ruins of a crumbling city**, made from glitched rectangles and scattered debris. It captures the sense of **man-made structures breaking down** over time.
 
+<img src="Industrial_decay1.png" width="300" >
+- [CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
+
 ### How the code works:
 
 #### `decayed_rect(w, h, decay)`
@@ -55,7 +58,7 @@ This piece visualizes the **ruins of a crumbling city**, made from glitched rect
 - The final drawing is saved as an `.eps` and `.png` file using `PIL`,  
   so I can edit it further in Illustrator and turn it into a **textile pattern**.
 
-<img src="Industrial_decay1.png" width="300" >  <img src="Industrial_decay3.png" width="300" > 
+<img src="Industrial_decay1.png" width="300" >  <img src="Industrial_decay3.png" width="400" > 
 - [CODE LINK](https://www.notion.so/Industrial-Decay-1f1be63be7fd807c85d1c9bdfcec2d29?pvs=4)
 
 <img src="Industrial_decay2.png" width="1000" >
