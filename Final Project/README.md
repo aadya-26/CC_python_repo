@@ -40,4 +40,7 @@ This project explores the use of generative coding with Python's Turtle library 
 * Ombre palette of blues, greens, and purples
 * Evokes flowers blooming under moonlight or post-toxic adaptation
 
-<img src="Bnature_1.png" width="200" >  <img src="Nature_3.png" width="100" >  <img src="Nature_4.PNG" width="500" > 
+<img src="Bnature_5.png" width="300" > <img src="Bnature_1.png" width="300" >  <img src="Bnature_2.png" width="400" > 
+- [CODE LINK](https://www.notion.so/Bioluminescent-Reclaim-1f1be63be7fd801cb521e2c00d86ed10?pvs=4)
+
+<img src="Bnature_4.png" width="1000" >
