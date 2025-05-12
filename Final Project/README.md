@@ -67,7 +67,7 @@ This piece visualizes the **ruins of a crumbling city**, made from glitched rect
 * Inspired by vines, moss, and fungi creeping over stone
 * Blends angular forms with organic motion
 
-This piece shows a **vine or plant stem slowly growing**, curving and branching in real time — a symbol of **nature starting to reclaim ruined spaces**.
+This piece shows a **vine or plant stem slowly growing**, curving and branching in real time: a symbol of **nature starting to reclaim ruined spaces**.
 
 <img src="Nature_1.png" width="200" >
 
