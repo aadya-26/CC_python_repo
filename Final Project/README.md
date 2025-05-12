@@ -40,7 +40,7 @@ This piece visualizes the **ruins of a crumbling city**, made from glitched rect
   - Skipped or lifted mid-line  
   - Drawn with jagged marks  
   - Drawn with different line weights  
-- This simulates damage — like **cracks, erosion, and rust**.
+- This simulates damage like **cracks, erosion, and rust**.
 
 #### `scattered_shapes()`
 - Places **20+ rectangles randomly** around the canvas.
